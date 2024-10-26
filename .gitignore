@@ -1,0 +1,39 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bin/
+obj/
+out/
+
+# Local DB files
+*.db
+*.sqlite
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Rider project files
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Docker
+docker-compose.override.yml
+docker-compose.yml
+**/*.db
+
+# Logs
+*.log
+
+# JetBrains Rider
+.idea/
+
+# ASP.NET Core
+*.db
+*.sqlite
